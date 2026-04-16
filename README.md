@@ -5,6 +5,8 @@
 🌐 Web Development & Discord Bots<br/>
 🚀 JavaScript | HTML | CSS<br/>
 
+[Socials](https://guns.lol/tryfyfu)
+
 ![Static Badge](https://img.shields.io/badge/tryfyfu-%23009fff?style=plastic&logo=discord&labelColor=ffffff&color=%23009fff)
 
 
