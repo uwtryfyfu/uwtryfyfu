@@ -1,6 +1,7 @@
 # 👋 Hey, I'm tryfyfu
 
 💻 Hobby Programmer<br/>
+⚔️ Top.gg Trial Reviewer<br/>
 🌐 Web Development & Discord Bots<br/>
 🚀 JavaScript | HTML | CSS<br/>
 
