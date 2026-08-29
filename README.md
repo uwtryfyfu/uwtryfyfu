@@ -1,11 +1,4 @@
-# 👋 Hey, I'm tryfyfu
-
-💻 Hobby Programmer<br/>
-⚔️ Top.gg Trial Reviewer<br/>
-🌐 Web Development & Discord Bots<br/>
-🚀 JavaScript | HTML | CSS<br/>
-
-[Socials](https://guns.lol/tryfyfu)
+# https://abgesetzt.xyz
 
 ![Static Badge](https://img.shields.io/badge/tryfyfu-%23009fff?style=plastic&logo=discord&labelColor=ffffff&color=%23009fff)
 
