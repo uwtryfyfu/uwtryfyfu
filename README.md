@@ -15,9 +15,12 @@ https://abgesetzt.xyz
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ### ⭐ Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=uwtryfyfu&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=uwtryfyfu&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=uwtryfyfu&theme=tokyonight" />
+</p>
 
 ### ☕ Support me
-[![ko-fi](https://storage.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/P1A721PT3B)
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P1A721PT3B)
 
 
