@@ -4,6 +4,9 @@ A self-taught developer since 2022 with no formal degree. I build modern web app
 ### 💖 More about me
 https://abgesetzt.xyz
 
+### ☕ Learn Programming
+https://learn.abgesetzt.xyz
+
 ### 💻Stack I Work With
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
